@@ -1,0 +1,491 @@
+year,pelicula,premios,nominaciones,pais
+1980,Ordinary People,4,6,Estados Unidos
+1980,Raging Bull,2,8,Estados Unidos
+1980,Tess,3,6,Reino Unido
+1980,Coal Miner's Daughter,1,7,Estados Unidos
+1980,The Elephant Man,0,8,Reino Unido
+1980,American Gigolo,0,2,Estados Unidos
+1980,Kramer vs. Kramer,5,9,Estados Unidos
+1980,All That Jazz,4,9,Estados Unidos
+1980,Breaking Away,2,5,Estados Unidos
+1980,Apocalypse Now,2,8,Estados Unidos
+1981,Ordinary People,4,4,Estados Unidos
+1981,Raging Bull,2,8,Estados Unidos
+1981,Coal Miner's Daughter,1,7,Estados Unidos
+1981,The Elephant Man,0,8,Reino Unido
+1981,Tess,0,6,Reino Unido
+1981,Apocalypse Now,2,8,Estados Unidos
+1981,Kramer vs. Kramer,5,9,Estados Unidos
+1981,Breaking Away,2,5,Estados Unidos
+1981,All That Jazz,4,9,Estados Unidos
+1982,Gandhi,8,11,Reino Unido
+1982,Tootsie,1,10,Estados Unidos
+1982,Missing,1,4,Estados Unidos
+1982,E.T. the Extra-Terrestrial,4,9,Estados Unidos
+1982,An Officer and a Gentleman,0,6,Estados Unidos
+1982,Victor/Victoria,1,7,Reino Unido
+1982,Sophie's Choice,2,5,Estados Unidos
+1982,The Verdict,0,5,Estados Unidos
+1982,The Dresser,0,5,Reino Unido
+1982,Moonlighting,0,3,Estados Unidos
+1983,Gandhi,8,11,Reino Unido
+1983,Tootsie,1,10,Estados Unidos
+1983,E.T. the Extra-Terrestrial,4,9,Estados Unidos
+1983,Missing,1,4,Estados Unidos
+1983,An Officer and a Gentleman,0,6,Estados Unidos
+1983,Victor/Victoria,1,7,Reino Unido
+1983,Sophie's Choice,2,5,Estados Unidos
+1983,The Verdict,0,5,Estados Unidos
+1983,The Dresser,0,5,Reino Unido
+1984,Terms of Endearment,5,11,Estados Unidos
+1984,Tender Mercies,2,5,Estados Unidos
+1984,The Right Stuff,4,8,Estados Unidos
+1984,Silkwood,0,5,Estados Unidos
+1984,The Dresser,0,5,Reino Unido
+1984,The Big Chill,0,3,Estados Unidos
+1984,Fanny and Alexander,4,6,Suecia
+1984,Zelig,0,2,Estados Unidos
+1984,The Year of Living Dangerously,0,1,Australia
+1985,Amadeus,8,11,Estados Unidos
+1985,The Killing Fields,3,7,Reino Unido
+1985,A Passage to India,2,11,Reino Unido
+1985,Places in the Heart,2,7,Estados Unidos
+1985,A Soldier's Story,1,3,Estados Unidos
+1985,The Natural,0,4,Estados Unidos
+1986,Out of Africa,7,11,Estados Unidos
+1986,The Color Purple,0,11,Estados Unidos
+1986,Kiss of the Spider Woman,1,4,Brasil
+1986,Prizzi's Honor,1,8,Estados Unidos
+1986,The Official Story,2,5,Argentina
+1987,Platoon,4,8,Estados Unidos
+1987,A Room with a View,3,8,Reino Unido
+1987,Hannah and Her Sisters,3,7,Estados Unidos
+1987,Children of a Lesser God,1,5,Estados Unidos
+1987,The Mission,1,7,Reino Unido
+1987,Hoosiers,0,2,Estados Unidos
+1987,Blue Velvet,0,1,Estados Unidos
+1987,Salvador,0,2,Estados Unidos
+1987,Stand by Me,0,1,Estados Unidos
+1987,Aliens,2,7,Reino Unido
+1988,The Last Emperor,9,9,Reino Unido
+1988,Moonstruck,3,6,Estados Unidos
+1988,Broadcast News,0,7,Estados Unidos
+1988,Hope and Glory,2,5,Reino Unido
+1988,A Cry in the Dark,0,1,Australia
+1988,My Life as a Dog,0,2,Suecia
+1988,The Dead,0,2,Reino Unido
+1989,Rain Man,4,8,Estados Unidos
+1989,Mississippi Burning,1,7,Estados Unidos
+1989,Dangerous Liaisons,3,7,Estados Unidos
+1989,A Fish Called Wanda,1,3,Reino Unido
+1989,Working Girl,1,6,Estados Unidos
+1989,The Accidental Tourist,1,4,Estados Unidos
+1989,Cinema Paradiso,1,1,Italia
+1989,Bagdad Café,0,3,Alemania Occidental
+1989,The Unbearable Lightness of Being,0,2,Estados Unidos
+1989,Women on the Verge of a Nervous Breakdown,0,1,España
+1990,Dances with Wolves,7,12,Estados Unidos
+1990,Goodfellas,1,6,Estados Unidos
+1990,The Godfather Part III,1,7,Estados Unidos
+1990,Awakenings,0,3,Estados Unidos
+1990,Ghost,2,5,Estados Unidos
+1990,The Hunt for Red October,1,3,Estados Unidos
+1990,My Left Foot,2,5,Irlanda
+1990,Edward Scissorhands,0,1,Estados Unidos
+1990,Postcards from the Edge,0,2,Estados Unidos
+1990,Reversal of Fortune,1,3,Estados Unidos
+1991,The Silence of the Lambs,5,7,Estados Unidos
+1991,Beauty and the Beast,2,6,Estados Unidos
+1991,JFK,2,8,Estados Unidos
+1991,Bugsy,2,10,Estados Unidos
+1991,The Prince of Tides,0,7,Estados Unidos
+1991,The Fisher King,1,5,Estados Unidos
+1991,Thelma & Louise,1,6,Estados Unidos
+1991,Hook,0,5,Estados Unidos
+1991,The Addams Family,0,1,Estados Unidos
+1991,City Slickers,0,2,Estados Unidos
+1992,Unforgiven,4,9,Estados Unidos
+1992,The Crying Game,1,6,Reino Unido
+1992,A Few Good Men,0,4,Estados Unidos
+1992,Howards End,2,9,Reino Unido
+1992,Scent of a Woman,1,4,Estados Unidos
+1992,A River Runs Through It,0,3,Estados Unidos
+1992,The Player,0,3,Estados Unidos
+1992,The Last of the Mohicans,0,1,Estados Unidos
+1992,Chaplin,0,3,Estados Unidos
+1992,Malcolm X,0,2,Estados Unidos
+1993,Schindler's List,7,12,Estados Unidos
+1993,The Fugitive,1,7,Estados Unidos
+1993,The Piano,3,8,Nueva Zelanda
+1993,In the Name of the Father,0,7,Irlanda
+1993,The Remains of the Day,0,8,Reino Unido
+1993,Philadelphia,2,5,Estados Unidos
+1993,The Age of Innocence,1,5,Estados Unidos
+1993,Shadowlands,0,2,Reino Unido
+1993,What's Love Got to Do with It,1,2,Estados Unidos
+1993,Six Degrees of Separation,0,1,Estados Unidos
+1994,Forrest Gump,6,13,Estados Unidos
+1994,Pulp Fiction,1,7,Estados Unidos
+1994,The Shawshank Redemption,0,7,Estados Unidos
+1994,Four Weddings and a Funeral,0,2,Reino Unido
+1994,Nell,0,1,Estados Unidos
+1994,Quiz Show,0,4,Estados Unidos
+1994,Bullets Over Broadway,1,7,Estados Unidos
+1994,Little Women,1,3,Estados Unidos
+1994,The Madness of King George,1,4,Reino Unido
+1994,Legends of the Fall,0,3,Estados Unidos
+1995,Braveheart,5,10,Estados Unidos
+1995,Apollo 13,2,9,Estados Unidos
+1995,Sense and Sensibility,1,7,Reino Unido
+1995,Babe,1,7,Australia
+1995,Il Postino: The Postman,1,5,Italia
+1995,The Usual Suspects,2,2,Estados Unidos
+1995,Dead Man Walking,1,4,Estados Unidos
+1995,Nixon,0,4,Estados Unidos
+1995,Cry the Beloved Country,0,2,Estados Unidos
+1995,Casino,0,1,Estados Unidos
+1996,The English Patient,9,12,Estados Unidos
+1996,Fargo,2,7,Estados Unidos
+1996,Shine,1,7,Australia
+1996,Evita,1,5,Estados Unidos
+1996,Secrets & Lies,0,5,Reino Unido
+1996,Jerry Maguire,1,5,Estados Unidos
+1996,The People vs. Larry Flynt,0,2,Estados Unidos
+1996,Breaking the Waves,1,1,Reino Unido
+1996,The Birdcage,1,1,Estados Unidos
+1996,Hamlet,0,4,Estados Unidos
+1997,Titanic,11,14,Estados Unidos
+1997,Good Will Hunting,2,9,Estados Unidos
+1997,As Good as It Gets,2,7,Estados Unidos
+1997,L.A. Confidential,2,9,Estados Unidos
+1997,The Full Monty,0,4,Reino Unido
+1997,Amistad,0,4,Estados Unidos
+1997,Men in Black,0,3,Estados Unidos
+1997,The Sweet Hereafter,0,2,Canadá
+1997,Boogie Nights,0,3,Estados Unidos
+1997,Kundun,0,4,Estados Unidos
+1998,Shakespeare in Love,7,13,Reino Unido
+1998,Saving Private Ryan,5,11,Estados Unidos
+1998,Life Is Beautiful,3,7,Italia
+1998,The Thin Red Line,1,7,Estados Unidos
+1998,Elizabeth,1,7,Reino Unido
+1998,Gods and Monsters,1,3,Estados Unidos
+1998,A Simple Plan,0,2,Estados Unidos
+1998,Out of Sight,0,2,Estados Unidos
+1998,Primary Colors,0,2,Estados Unidos
+1998,The Truman Show,3,3,Estados Unidos
+1999,American Beauty,5,8,Estados Unidos
+1999,The Sixth Sense,0,6,Estados Unidos
+1999,The Insider,0,7,Estados Unidos
+1999,The Green Mile,4,4,Estados Unidos
+1999,The Cider House Rules,2,7,Estados Unidos
+1999,The Talented Mr. Ripley,0,5,Estados Unidos
+1999,The Matrix,4,4,Estados Unidos
+1999,Boys Don't Cry,1,2,Estados Unidos
+1999,The End of the Affair,0,2,Estados Unidos
+1999,Being John Malkovich,0,3,Estados Unidos
+2000,Gladiator,5,12,Estados Unidos
+2000,Tigre y dragón,4,10,Hong Kong
+2000,Erin Brockovich,1,5,Estados Unidos
+2000,Traffic,4,5,Estados Unidos
+2000,Chocolat,1,5,Reino Unido
+2000,Almost Famous,1,4,Estados Unidos
+2000,Finding Forrester,0,1,Estados Unidos
+2000,Requiem for a Dream,0,1,Estados Unidos
+2000,Snatch: cerdos y diamantes,0,1,Reino Unido
+2000,Bailando en la oscuridad,1,1,Dinamarca
+2000,Gladiador,5,12,Estados Unidos
+2001,El señor de los anillos: La comunidad del anillo,4,13,Nueva Zelanda
+2001,Moulin Rouge!,2,8,Estados Unidos
+2001,La habitación del hijo,1,6,Italia
+2001,A Beautiful Mind,4,8,Estados Unidos
+2001,El pianista,3,7,Polonia
+2001,Black Hawk derribado,2,4,Estados Unidos
+2001,Training Day,1,2,Estados Unidos
+2001,A.I. Inteligencia artificial,1,2,Estados Unidos
+2001,El Diario de Bridget Jones,0,3,Reino Unido
+2001,Shrek,1,2,Estados Unidos
+2001,Harry Potter y la piedra filosofal,0,3,Reino Unido
+2001,La otra hija,0,1,Estados Unidos
+2002,Chicago,6,13,Estados Unidos
+2002,Gangs of New York,0,10,Italia
+2002,El Señor de los Anillos: Las Dos Torres,2,6,Nueva Zelanda
+2002,El Pianista,3,7,Polonia
+2002,Adaptation,0,4,Estados Unidos
+2002,8 millas,1,1,Estados Unidos
+2002,La habitación del hijo,1,6,Italia
+2002,El Ladrón de Orquídeas,1,4,Estados Unidos
+2002,About Schmidt,2,2,Estados Unidos
+2002,El Chico,1,2,Reino Unido
+2002,El Crimen del Padre Amaro,1,1,México
+2002,Todos dicen I love you,1,1,Estados Unidos
+2002,Scooby-Doo,0,1,Estados Unidos
+2002,Bend it Like Beckham,0,1,Reino Unido
+2003,El señor de los anillos: el retorno del rey,11,11,Nueva Zelanda
+2003,Master and Commander: Al otro lado del mundo,2,10,Estados Unidos
+2003,Seabiscuit,1,7,Estados Unidos
+2003,Piratas del Caribe: La maldición del Perla Negra,1,5,Estados Unidos
+2003,La lista de Schindler,7,12,Estados Unidos
+2003,Mystic River,2,6,Estados Unidos
+2003,Lost in Translation,1,4,Estados Unidos
+2003,Cold Mountain,1,7,Estados Unidos
+2003,La terminal,0,3,Estados Unidos
+2003,Hulk,0,1,Estados Unidos
+2003,Underworld,0,1,Estados Unidos
+2003,American Splendor,0,1,Estados Unidos
+2003,Love Actually,0,2,Reino Unido
+2003,28 Days Later,0,2,Reino Unido
+2004,El aviador,5,11,Estados Unidos
+2004,Mi vida sin mí,0,1,Canadá
+2004,Finding Neverland,1,7,Reino Unido
+2004,Colateral,0,2,Estados Unidos
+2004,Million Dollar Baby,4,7,Estados Unidos
+2004,Hotel Rwanda,0,3,Reino Unido
+2004,Ray,2,6,Estados Unidos
+2004,Kill Bill: Volumen 2,0,2,Estados Unidos
+2004,Eternal Sunshine of the Spotless Mind,1,2,Estados Unidos
+2004,Lemony Snicket's A Series of Unfortunate Events,0,1,Estados Unidos
+2004,Closer,0,1,Estados Unidos
+2004,Vera Drake,0,3,Reino Unido
+2004,The Motorcycle Diaries,0,1,Estados Unidos
+2004,Shrek 2,0,2,Estados Unidos
+2005,Brokeback Mountain,3,8,Estados Unidos
+2005,La novia cadáver,1,1,Estados Unidos
+2005,Capote,1,5,Estados Unidos
+2005,Crash,3,6,Estados Unidos
+2005,Good Night and Good Luck,0,6,Estados Unidos
+2005,El jardín de la alegría,0,1,India
+2005,King Kong,3,4,Estados Unidos
+2005,Walk the Line,1,5,Estados Unidos
+2005,Munich,4,5,Estados Unidos
+2005,A History of Violence,0,2,Estados Unidos
+2005,Match Point,0,1,Reino Unido
+2005,Syriana,1,2,Estados Unidos
+2005,Pride & Prejudice,0,4,Reino Unido
+2005,Batman Begins,1,2,Estados Unidos
+2006,Babel,1,7,Estados Unidos
+2006,El laberinto del fauno,3,6,España
+2006,The Departed,4,5,Estados Unidos
+2006,Letters from Iwo Jima,1,4,Estados Unidos
+2006,The Queen,1,6,Reino Unido
+2006,United 93,2,2,Estados Unidos
+2006,The Last King of Scotland,1,2,Reino Unido
+2006,The Pursuit of Happyness,0,1,Estados Unidos
+2006,The Lives of Others,1,1,Alemania
+2006,El Nuevo Mundo,0,1,Estados Unidos
+2006,La sombra del actor,0,1,Estados Unidos
+2006,Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan,1,1,Estados Unidos
+2006,Little Miss Sunshine,2,4,Estados Unidos
+2006,Apocalypto,0,1,Estados Unidos
+2006,Volver,1,1,España
+2007,Juno,1,4,Estados Unidos
+2007,No Country for Old Men,4,8,Estados Unidos
+2007,There Will Be Blood,2,8,Estados Unidos
+2007,La joven del agua,0,1,Estados Unidos
+2007,The Assassination of Jesse James by the Coward Robert Ford,0,2,Estados Unidos
+2007,La vida en rosa,2,3,Francia
+2007,Atonement,1,7,Reino Unido
+2007,Michael Clayton,1,7,Estados Unidos
+2007,Ratatouille,1,5,Estados Unidos
+2007,Eastern Promises,1,1,Reino Unido
+2007,Into the Wild,0,2,Estados Unidos
+2007,Lars and the Real Girl,0,1,Estados Unidos
+2007,El asesinato de Jesse James por el cobarde Robert Ford,0,2,Estados Unidos
+2007,La brújula dorada,1,1,Reino Unido
+2008,El curioso caso de Benjamin Button,3,13,Estados Unidos
+2008,Slumdog Millonaire,8,10,Reino Unido
+2008,El Caballero de la Noche,2,8,Estados Unidos
+2008,El Luchador,2,2,Estados Unidos
+2008,Milk,2,8,Estados Unidos
+2008,Frost/Nixon,2,5,Estados Unidos
+2008,El lector,1,5,Estados Unidos
+2008,Revolutionary Road,0,3,Estados Unidos
+2008,Gran Torino,0,1,Estados Unidos
+2008,The Wrestler,1,2,Estados Unidos
+2008,Slumdog Millionaire,8,10,Reino Unido
+2008,The Dark Knight,2,8,Estados Unidos
+2008,Vicky Cristina Barcelona,1,3,Estados Unidos
+2008,The Reader,1,5,Estados Unidos
+2008,WALL-E,1,6,Estados Unidos
+2009,Avatar,3,9,Estados Unidos
+2009,En tierra hostil,6,9,Estados Unidos
+2009,The Hurt Locker,6,9,Estados Unidos
+2009,Up,2,5,Estados Unidos
+2009,Up in the Air,0,6,Estados Unidos
+2009,Inglourious Basterds,1,8,Estados Unidos
+2009,District 9,0,4,Estados Unidos
+2009,The Blind Side,1,2,Estados Unidos
+2009,An Education,0,3,Reino Unido
+2009,Precious,2,6,Estados Unidos
+2009,A Serious Man,0,2,Estados Unidos
+2009,Crazy Heart,2,3,Estados Unidos
+2009,Fantastic Mr. Fox,0,2,Estados Unidos
+2009,A Single Man,0,1,Estados Unidos
+2010,El discurso del rey,4,12,Reino Unido
+2010,Valor de ley,0,10,Estados Unidos
+2010,Origen,4,8,Estados Unidos
+2010,The Social Network,3,8,Estados Unidos
+2010,The Fighter,2,7,Estados Unidos
+2010,Toy Story 3,2,5,Estados Unidos
+2010,127 horas,0,6,Estados Unidos
+2010,El origen,4,8,Estados Unidos
+2010,Cisne negro,1,5,Estados Unidos
+2010,The Kids Are All Right,0,4,Estados Unidos
+2010,The King's Speech,4,12,Reino Unido
+2010,The Town,0,1,Estados Unidos
+2010,Blue Valentine,0,1,Estados Unidos
+2010,Winter's Bone,0,4,Estados Unidos
+2010,Alice in Wonderland,2,2,Estados Unidos
+2011,The Artist,5,10,Francia
+2011,El árbol de la vida,3,3,Estados Unidos
+2011,Hugo,5,11,Estados Unidos
+2011,War Horse,2,6,Reino Unido
+2011,The Descendants,1,5,Estados Unidos
+2011,Los descendientes,1,5,Estados Unidos
+2011,Moneyball,0,6,Estados Unidos
+2011,The Help,1,4,Estados Unidos
+2011,Medianoche en París,1,4,Estados Unidos
+2011,The Iron Lady,2,4,Reino Unido
+2011,My Week with Marilyn,0,2,Reino Unido
+2011,The Ides of March,0,1,Estados Unidos
+2011,The Girl with the Dragon Tattoo,0,5,Estados Unidos
+2011,Tinker Tailor Soldier Spy,0,3,Reino Unido
+2011,Albert Nobbs,0,3,Reino Unido
+2012,Argo,3,7,Estados Unidos
+2012,La vida de Pi,4,11,Estados Unidos
+2012,Los miserables,3,8,Reino Unido
+2012,Lincoln,2,12,Estados Unidos
+2012,Zero Dark Thirty,1,5,Estados Unidos
+2012,Django sin cadenas,2,5,Estados Unidos
+2012,El lado bueno de las cosas,1,8,Estados Unidos
+2012,Beasts of the Southern Wild,0,4,Estados Unidos
+2012,Amor,1,5,Francia
+2012,La noche más oscura,1,5,Estados Unidos
+2012,El exótico hotel Marigold,0,2,Reino Unido
+2012,La caza,0,1,Dinamarca
+2012,Los juegos del hambre,0,1,Estados Unidos
+2012,Anna Karenina,0,4,Reino Unido
+2012,La invención de Hugo,5,11,Estados Unidos
+2013,12 años de esclavitud,3,9,Estados Unidos
+2013,Gravity,7,10,Reino Unido
+2013,El lobo de Wall Street,1,5,Estados Unidos
+2013,American Hustle,0,10,Estados Unidos
+2013,Her,1,5,Estados Unidos
+2013,Capitán Phillips,0,6,Estados Unidos
+2013,Philomena,0,4,Reino Unido
+2013,Nebraska,0,6,Estados Unidos
+2013,Dallas Buyers Club,3,6,Estados Unidos
+2013,Blue Jasmine,1,3,Estados Unidos
+2013,La gran estafa americana,0,10,Estados Unidos
+2013,La vida secreta de Walter Mitty,0,2,Estados Unidos
+2013,La ladrona de libros,0,1,Estados Unidos
+2013,Mandela: Long Walk to Freedom,0,1,Reino Unido
+2013,Frozen,2,2,Estados Unidos
+2014,Birdman,4,9,Estados Unidos
+2014,El Gran Hotel Budapest,4,9,Estados Unidos
+2014,Boyhood,1,6,Estados Unidos
+2014,Whiplash,3,5,Estados Unidos
+2014,El francotirador,1,6,Estados Unidos
+2014,La teoría del todo,1,5,Reino Unido
+2014,Selma,1,2,Estados Unidos
+2014,La imitación del rey,1,8,Reino Unido
+2014,El código enigma,1,8,Reino Unido
+2014,American Sniper,1,6,Estados Unidos
+2014,Nightcrawler,0,1,Estados Unidos
+2014,Foxcatcher,0,5,Estados Unidos
+2014,Perdida,1,1,Estados Unidos
+2014,Interestelar,1,5,Estados Unidos
+2015,Birdman,4,9,Estados Unidos
+2015,El Renacido,3,12,Estados Unidos
+2015,Spotlight,2,6,Estados Unidos
+2015,La gran apuesta,1,5,Estados Unidos
+2015,El puente de los espías,1,6,Estados Unidos
+2015,La habitación,1,4,Canadá
+2015,Brooklyn,0,3,Reino Unido
+2015,La chica danesa,1,6,Reino Unido
+2015,Marte,0,7,Estados Unidos
+2015,Sicario,0,3,Estados Unidos
+2015,Carol,0,6,Reino Unido
+2015,Creed: La leyenda de Rocky,0,1,Estados Unidos
+2015,The Danish Girl,1,6,Reino Unido
+2015,Ex Machina,1,1,Reino Unido
+2015,Puente de Espías,1,6,Estados Unidos
+2016,Moonlight,3,8,Estados Unidos
+2016,La La Land,6,14,Estados Unidos
+2016,Manchester frente al mar,2,6,Estados Unidos
+2016,Hasta el último hombre,2,6,Estados Unidos
+2016,Fences,1,4,Estados Unidos
+2016,Lion,2,6,Australia
+2016,La llegada,1,8,Estados Unidos
+2016,La ciudad de las estrellas (La La Land),6,14,Estados Unidos
+2016,Hell or High Water,0,4,Estados Unidos
+2016,Talentos ocultos,1,3,Estados Unidos
+2016,Arrival,1,8,Estados Unidos
+2016,El bebé de Bridget Jones,0,1,Reino Unido
+2016,Un camino a casa,1,6,Estados Unidos
+2017,La forma del agua,4,13,Estados Unidos
+2017,Dunkerque,3,8,Reino Unido
+2017,Tres anuncios en las afueras,2,7,Reino Unido
+2017,Lady Bird,0,5,Estados Unidos
+2017,Llámame por tu nombre,1,4,Italia
+2017,El instante más oscuro,2,6,Reino Unido
+2017,Los archivos del Pentágono,0,2,Estados Unidos
+2017,Phantom Thread,1,6,Reino Unido
+2017,El hilo invisible,1,6,Reino Unido
+2017,The Shape of Water,4,13,Estados Unidos
+2017,Las horas más oscuras,2,6,Reino Unido
+2017,Loving Vincent,1,1,Polonia
+2017,El sacrificio de un ciervo sagrado,0,1,Reino Unido
+2017,Call Me by Your Name,1,4,Italia
+2017,La batalla de los sexos,0,2,Estados Unidos
+2017,Mudbound,0,4,Estados Unidos
+2017,Icarus,1,1,Estados Unidos
+2017,All the Money in the World,0,1,Estados Unidos
+2017,Logan,0,1,Estados Unidos
+2018,Green Book,3,5,Estados Unidos
+2018,Bohemian Rhapsody,4,5,Estados Unidos
+2018,Roma,3,10,México
+2018,Ha nacido una estrella,1,8,Estados Unidos
+2018,Black Panther,3,7,Estados Unidos
+2018,La favorita,1,10,Reino Unido
+2018,Vice,1,8,Estados Unidos
+2018,Infiltrado del Kkklan,1,6,Estados Unidos
+2018,Blackkklansman,1,6,Estados Unidos
+2019,Parasite,4,6,Corea del Sur
+2019,1917,3,10,Reino Unido
+2019,Joker,2,11,Estados Unidos
+2019,Once Upon a Time in Hollywood,2,10,Estados Unidos
+2019,Ford v Ferrari,2,4,Estados Unidos
+2019,Jojo Rabbit,1,6,Estados Unidos
+2019,El Irlandés,1,10,Estados Unidos
+2019,Mujercitas,1,6,Estados Unidos
+2019,Parásitos,4,6,Corea del Sur
+2019,Le Mans '66,2,4,Estados Unidos
+2019,Bohemian Rhapsody,4,5,Estados Unidos
+2019,Roma,3,10,México
+2019,Black Panther,3,7,Estados Unidos
+2019,The Favourite,1,10,Reino Unido
+2019,A Star Is Born,1,8,Estados Unidos
+2019,Vice,1,8,Estados Unidos
+2020,Parásitos,4,6,Corea del Sur
+2020,1917,3,10,Reino Unido
+2020,Joker,2,11,Estados Unidos
+2020,Érase una vez en Hollywood,2,10,Estados Unidos
+2020,El Irlandés,0,10,Estados Unidos
+2020,Jojo Rabbit,1,6,Nueva Zelanda
+2020,Le Mans '66,2,4,Estados Unidos
+2020,Guasón,2,11,Estados Unidos
+2021,Nomadland,3,6,Estados Unidos
+2021,El Padre,2,6,Reino Unido
+2021,Judas and the Black Messiah,2,6,Estados Unidos
+2021,Mank,2,10,Estados Unidos
+2021,Minari,1,6,Estados Unidos
+2021,Sound of Metal,2,6,Estados Unidos
+2021,El juicio de los 7 de Chicago,1,6,Estados Unidos
+2021,Una joven prometedora,1,5,Reino Unido
+2021,Soul,2,3,Estados Unidos
+2021,Noticias del gran mundo,0,4,Estados Unidos
+2021,El agente topo,0,2,Chile
+2021,Another Round,1,2,Dinamarca
+2021,Emma,0,2,Reino Unido
+2021,Collective,0,2,Rumania
