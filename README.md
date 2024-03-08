@@ -1,6 +1,9 @@
 
 Garzon Mateo Analisis de Datos Visualizaciones de los tres proyectos de github a los que se les replico el analisis
 -
+![image](https://github.com/WesitosFsa/WesitosFsa.github.io/assets/137083225/e3929106-6a74-4124-bd62-2e60359cf55e)
+PPT O Diapositiva de presentaciones
+-
 Link del drive o del video :
 -
 ![image](https://github.com/WesitosFsa/WesitosFsa.github.io/assets/137083225/3a222fa6-0509-49df-afea-01601a229b7e)
