@@ -199,7 +199,7 @@ html, body {
 }
 /* Contenido de el hover */
 
-#informacion p {
+#nombre p {
   font-style: italic;
   font-size: 30px;
   color: white;
@@ -207,7 +207,7 @@ html, body {
   position: relative; /* Asegura que el span esté posicionado en relación con este párrafo */
 }
 
-#informacion span {
+#profesion span {
   color: #6acd4c;
   text-decoration: underline;
   text-align: center;
@@ -215,7 +215,10 @@ html, body {
 }
 
 #contenedorperfil{
+  
   position: relative;
+
+  padding: auto;
   width: 232px;
   height: 400px;
   border-radius: 14px;
@@ -282,4 +285,17 @@ html, body {
   min-height: 100vh;
   width: 100%;
   background:#6acd4c
+}
+#informacion h2{
+  align-items: center;
+  color: #6acd4c;
+  text-decoration:underline;
+}
+#informacion h4{
+  color: #fff;
+}
+#informacion{
+  padding-left: 10%;
+  padding-right: 10%;
+
 }
