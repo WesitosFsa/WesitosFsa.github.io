@@ -421,12 +421,97 @@
   content: "Lenguajes de Programacion";
 }
 /**Proyectos*/
-#proyectos {
+#proyectoss {
   background-color: #212529;
 }
-#proyectos h1{
+#proyectoss h1{
   text-align: center;
   text-decoration: underline;
   color: #fff;
   
+}
+#proyectos{
+  position: relative;
+  width: 350px;
+  aspect-ratio: 16/9;
+  background-color: #f2f2f2;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  perspective: 1000px;
+  box-shadow: 0 0 0 5px #ffffff80;
+  transition: all 0.6s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+}
+
+#proyectos svg{
+  width: 48px;
+  fill: #333;
+  transition: all 0.6s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+}
+
+#proyectos img {
+  width: 100%; /* Ajusta el tamaño de la imagen según sea necesario */
+  height: auto; /* Para mantener la proporción */
+}
+
+#proyectos:hover {
+  transform: scale(1.05);
+  box-shadow: 0 8px 16px rgba(255, 255, 255, 0.2);
+}
+
+#proyectos_content{
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  padding: 20px;
+  box-sizing: border-box;
+  background-color: #f2f2f2;
+  transform: rotateX(-90deg);
+  transform-origin: bottom;
+  transition: all 0.6s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+}
+
+#proyectos:hover #proyectos_content{
+  transform: rotateX(0deg);
+}
+
+#proyectos_titulo {
+  margin: 0;
+  font-size: 20px;
+  color: #333;
+  font-weight: 700;
+}
+
+#proyectos:hover svg {
+  scale: 0;
+}
+
+#proyectos_descripcion {
+  margin: 10px 0 10px;
+  font-size: 12px;
+  color: #000000;
+  line-height: 1.4;
+}
+
+#proyectos_boton {
+  padding: 15px;
+  border-radius: 8px;
+  background: #777;
+  border: none;
+  color: white;
+}
+
+#proyectos_secundario{
+  padding: 15px;
+  border-radius: 8px;
+  background: #777;
+  color: #fff;
+  border: 1px solid #777;
+}
+#especial{
+  padding-left: 40px;
 }
