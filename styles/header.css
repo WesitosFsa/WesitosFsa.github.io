@@ -63,3 +63,9 @@ html, body {
 .radio-inputs .radio input:checked + .name:hover {
   color: #6acd4c;
 }
+.navbar-brand #nombre{
+    font-style: italic;
+}
+.navbar-brand #desarrolladors{
+    color: #6acd4c;
+}
