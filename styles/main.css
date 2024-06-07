@@ -105,7 +105,7 @@
   background-color: #cc39a4;
 }
 
-.card1:hover .instagram {
+.card1:hover .youtube {
   fill: white;
 }
 
@@ -113,7 +113,7 @@
   background-color: #03A9F4;
 }
 
-.card2:hover .twitter {
+.card2:hover .linkedin {
   fill: white;
 }
 
@@ -422,7 +422,7 @@
 }
 /**Proyectos*/
 #proyectoss {
-  background-color: #212529;
+  background: linear-gradient(to top, #6acd4c 0%, #6acd4c  15%, #212529 15%, #212529 100% );
 }
 #proyectoss h1{
   text-align: center;
@@ -500,7 +500,7 @@
 #proyectos_boton {
   padding: 15px;
   border-radius: 8px;
-  background: #777;
+  background: #ff0000;
   border: none;
   color: white;
 }
@@ -508,10 +508,18 @@
 #proyectos_secundario{
   padding: 15px;
   border-radius: 8px;
-  background: #777;
+  background: #000000;
   color: #fff;
   border: 1px solid #777;
 }
 #especial{
   padding-left: 40px;
+}
+/**Proyectos*/
+#experiencia{
+  background-color: #6acd4c;
+}
+#experiencia h1{
+  text-align: center;
+
 }
